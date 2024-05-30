@@ -15,4 +15,4 @@ price = soup.find("span", class_="price-whole")
 
 print(price)
 
-
+4
